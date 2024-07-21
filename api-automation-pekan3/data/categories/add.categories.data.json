@@ -1,0 +1,11 @@
+{
+    "success": {
+        "name": "Mainan Hewan",
+        "description": "Permainan Hewan"
+    },
+    "failed": {
+        "name": null,
+        "description": null
+    }
+ }
+ 

@@ -1,0 +1,11 @@
+{
+    "success": {
+        "name": "makanan ringan",
+        "description": "makanan ringan dari indofood"
+    },
+    "failed": {
+        "name": null,
+        "description": null
+    }
+ }
+ 

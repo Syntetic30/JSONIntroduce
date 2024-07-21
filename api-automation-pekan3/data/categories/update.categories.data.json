@@ -1,0 +1,10 @@
+{
+    "success": {
+        "name": "update-minuman Kucing",
+        "description": "Minuman Kucing"
+    },
+    "failed": {
+        "name": "",
+        "description": ""
+    }   
+}

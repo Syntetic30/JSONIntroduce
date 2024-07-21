@@ -1,0 +1,10 @@
+{
+    "loginSuccess": {
+        "email": "randiNurArdian@tiny.cc",
+        "password": "123456"
+    },
+    "loginFailed": {
+        "email": "randiNurArdian@tiny.cc",
+        "password": "12345678"
+    }
+}

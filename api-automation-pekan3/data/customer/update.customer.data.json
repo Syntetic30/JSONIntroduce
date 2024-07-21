@@ -1,0 +1,14 @@
+{
+    "success": {
+        "name": "Randi Ardian Update",
+        "phone": "085151891991",
+        "address": "Jakarta",
+        "description": "Cynical VIP"
+    },
+    "failed": {
+        "name": "",
+        "phone": "",
+        "address": "",
+        "description": ""
+    }   
+}
